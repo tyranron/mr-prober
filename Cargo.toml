@@ -9,3 +9,6 @@ repository = "https://github.com/tyranron/mr-prober"
 readme = "README.md"
 
 [dependencies]
+reqwest = { version = "0.10", features = ["rustls-tls"] }
+tokio = { version = "0.2", features = ["macros"] }
+warp = "0.2"
