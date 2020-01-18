@@ -1,7 +1,11 @@
 [package]
 name = "mr-prober"
-version = "0.1.0"
-authors = ["Kai Ren <tyranron@gmail.com>"]
+version = "0.1.0-dev"
 edition = "2018"
+authors = ["Kai Ren <tyranron@gmail.com>"]
+license = "BlueOak-1.0.0"
+homepage = "https://github.com/tyranron/mr-prober"
+repository = "https://github.com/tyranron/mr-prober"
+readme = "README.md"
 
 [dependencies]
