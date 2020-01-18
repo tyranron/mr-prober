@@ -1,9 +1,10 @@
 🎩 Mr. Prober 🎩
 ================
 
+![Unsafe forbidden](https://img.shields.io/badge/unsafe-forbidden-success.svg)
 ![License](https://img.shields.io/crates/l/mr-prober)
 
-Sidecar for Kubernetes probing.
+Sidecar for [Kubernetes] probing.
 
 __Currently, in early development phase.__
 
